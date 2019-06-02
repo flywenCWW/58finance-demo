@@ -1,7 +1,3 @@
-/**
- * Touna.com Inc.
- * Copyright (c) 2012-2017 All Rights Reserved.
- */
 package com.simon.credit.util;
 
 import java.io.BufferedReader;

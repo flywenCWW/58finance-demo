@@ -1,7 +1,3 @@
-/**
- * Touna.com Inc.
- * Copyright (c) 2012-2016 All Rights Reserved.
- */
 package com.simon.credit.util;
 
 import java.util.ArrayList;
@@ -10,9 +6,6 @@ import java.util.List;
 
 /**
  * 字符串处理工具类
- * 
- * @author hezhuguo
- * @version $Id: StringUtil.java, v 0.1 2016年7月29日 下午5:05:39 hezhuguo Exp $
  */
 public class StringUtil {
 

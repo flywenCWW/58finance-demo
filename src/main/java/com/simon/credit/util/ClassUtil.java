@@ -1,7 +1,3 @@
-/**
- * Touna.com Inc.
- * Copyright (c) 2012-2016 All Rights Reserved.
- */
 package com.simon.credit.util;
 
 import java.lang.reflect.Array;
@@ -13,12 +9,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.WeakHashMap;
 
-/**
- * <code>Class</code> 处理工具类
- * 
- * @author hezhuguo
- * @version $Id: ClassUtil.java, v 0.1 2016年7月29日 下午5:16:50 hezhuguo Exp $
- */
 @SuppressWarnings({ "rawtypes", "unchecked" })
 public class ClassUtil {
 

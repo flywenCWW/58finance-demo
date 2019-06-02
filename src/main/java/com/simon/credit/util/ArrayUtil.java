@@ -1,7 +1,3 @@
-/**
- * Touna.com Inc.
- * Copyright (c) 2012-2016 All Rights Reserved.
- */
 package com.simon.credit.util;
 
 import java.lang.reflect.Array;
@@ -14,9 +10,6 @@ import java.util.Map;
 
 /**
  * 数组处理工具类
- * 
- * @author hezhuguo
- * @version $Id: ArrayUtil.java, v 0.1 2016年7月29日 下午4:52:30 hezhuguo Exp $
  */
 public class ArrayUtil {
 

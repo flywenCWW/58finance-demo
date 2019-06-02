@@ -1,18 +1,8 @@
-/**
- * Touna.com Inc.
- * Copyright (c) 2012-2016 All Rights Reserved.
- */
 package com.simon.credit.util;
 
 import java.io.Serializable;
 import java.lang.reflect.Method;
 
-/**
- * <code>Object</code>处理工具类。
- * 
- * @author hezhuguo
- * @version $Id: ObjectUtil.java, v 0.1 2016年7月29日 下午5:19:42 hezhuguo Exp $
- */
 public class ObjectUtil {
 
     /**
