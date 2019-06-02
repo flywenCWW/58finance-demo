@@ -52,7 +52,7 @@ public class TNOpenApiInvoker {
 		// 1.机构申请准入接口(开放平台必须配置开放服务method: bj58.credit.checkUser, 否则会报参数异常)
 		String url  = "https://openapitest.to$$u$$na.cn/gateway/bj58/bj58.credit.checkUser";
 
-		String response = HttpUtil.doPost(parseCorrectUrl(url), params, 10000, 10000);
+		String response = HttpUtil.jsonPost(parseCorrectUrl(url), JSON.toJSONString(params));
 		System.out.println("response: " + response);
 	}
 
